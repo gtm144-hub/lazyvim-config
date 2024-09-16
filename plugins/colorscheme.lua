@@ -1,9 +1,7 @@
 return {
-  { "ishan9299/modus-theme-vim" },
-  {
-    "LazyVim/LazyVim",
-    opts = {
-      colorscheme = "modus-operandi",
-    },
-  },
+  "EdenEast/nightfox.nvim",
+  config = function()
+    -- Set the color scheme
+    vim.cmd("colorscheme terafox")
+  end,
 }
