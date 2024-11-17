@@ -1,0 +1,20 @@
+{
+    "editor.minimap.enabled": false,
+    "workbench.iconTheme": "Monokai Pro (Filter Ristretto) Icons",
+    "editor.fontSize": 13,
+    "jupyter.interactiveWindow.textEditor.executeSelection": true,
+    "jupyter.interactiveWindow.creationMode": "perFile",
+    "workbench.colorTheme": "Lazy Yellow Lemon",
+    "editor.tokenColorCustomizations": {
+        "strings": "#000000",       // Red
+        "numbers": "#00ff00",       // Green
+        "keywords": "#7700ff",      // Blue
+        "types": "#800080",         // Purple
+        "functions": "#0048ff",     // Orange
+        "comments": "#808080"       // Gray
+    },
+    "workbench.colorCustomizations": {
+        "sideBar.foreground": "#ffffff",
+        "list.activeSelectionBackground": "#0050a0" 
+    }
+}
